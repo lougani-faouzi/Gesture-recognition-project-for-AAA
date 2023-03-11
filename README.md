@@ -1,4 +1,4 @@
 # Gesture-recognition-project-for-AAA
 
-## LOUGANI FAOUZI and LAMOUR MICHELET 
+## coded by LOUGANI FAOUZI 
 Resources/explanation  are available on report
